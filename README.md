@@ -1,4 +1,4 @@
-# XmlsaxChatbox_C-S
+# XmlsaxChatbox_C/S
 Hey, there is a chatbox made my xmlsax.
 
 
