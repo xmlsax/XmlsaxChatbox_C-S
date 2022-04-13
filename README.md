@@ -1,5 +1,5 @@
 # XmlsaxChatbox_C/S
-Hey, there is a chatbox made my xmlsax.
+Hey, there is a chatbox made xmlsax.
 
 
 
