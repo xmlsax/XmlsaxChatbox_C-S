@@ -12,3 +12,5 @@ It uses bsd socket api in client, and socketserver module from python in server.
 
 
 **Note: Releases will only contain client but not server. **
+
+License for server is GPLv3.0 and for client is BSDv2.
